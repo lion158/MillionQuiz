@@ -1,5 +1,4 @@
 # Milion Quiz app
-#### Video Demo:  <URL HERE>
 
 ## Introduction
 __*Hello World*__, this is my very first project, created by final project on cs50 course. 
